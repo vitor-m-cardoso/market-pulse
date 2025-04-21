@@ -76,7 +76,7 @@ export default function Login() {
           >
           </Image>
           <Typography variant="h5" component="h2" gutterBottom align="center">
-            Sign up
+            Press &quot;Login&quot; button
           </Typography>
 
           <Box component="form" noValidate autoComplete="off">
