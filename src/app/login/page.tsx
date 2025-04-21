@@ -13,7 +13,18 @@ import {
   Paper,
 } from '@mui/material';
 
+import { useAuth } from '@/contexts/AuthContext';
+import { useRouter } from 'next/navigation';
+
 export default function Login() {
+  const { login } = useAuth();
+  const router = useRouter();
+
+  const handleLogin = () => {
+    login();
+    router.push('/dashboard');
+  }
+
   return (
     <Box
       sx={{
@@ -119,6 +130,7 @@ export default function Login() {
                 variant="contained"
                 className='background-color-primary'
                 sx={{ mt: 2 }}
+                onClick={handleLogin}
               >
                 Login
               </Button>
