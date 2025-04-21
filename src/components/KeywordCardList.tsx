@@ -43,33 +43,31 @@ export default function KeywordCardList() {
   return (
     <Grid container spacing={3}>
       {keywordCards.map((category, index) => (
-        <Grid item xs={12} md={3} key={index}>
-          <Card sx={{ p: 2, borderRadius: 3, background: '#fafafa' }}>
-            <CardContent>
-              <Typography variant="h6" mb={2}>
-                {category.title}
-              </Typography>
-              <List sx={{ listStyleType: 'decimal', pl: 2 }}>
-                {category.keywords.map((item, i) => (
-                  <ListItem
-                    key={i}
-                    component="li"
-                    disablePadding
-                    sx={{ display: 'list-item' }}
-                  >
-                    <ListItemText
-                      primary={
-                        <Typography variant="body2">
-                          {item.word}
-                        </Typography>
-                      }
-                    />
-                  </ListItem>
-                ))}
-              </List>
-            </CardContent>
-          </Card>
-        </Grid>
+        <Card key={index} sx={{ p: 2, borderRadius: 3, background: '#fafafa' }}>
+          <CardContent>
+            <Typography variant="h6" mb={2}>
+              {category.title}
+            </Typography>
+            <List sx={{ listStyleType: 'decimal', pl: 2 }}>
+              {category.keywords.map((item, i) => (
+                <ListItem
+                  key={i}
+                  component="li"
+                  disablePadding
+                  sx={{ display: 'list-item' }}
+                >
+                  <ListItemText
+                    primary={
+                      <Typography variant="body2">
+                        {item.word}
+                      </Typography>
+                    }
+                  />
+                </ListItem>
+              ))}
+            </List>
+          </CardContent>
+        </Card>
       ))}
     </Grid>
   );

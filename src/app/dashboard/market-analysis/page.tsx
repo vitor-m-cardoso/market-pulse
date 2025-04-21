@@ -15,32 +15,9 @@ import {
   TableRow,
   Typography,
 } from '@mui/material';
-import Image from 'next/image';
 
 import { BarChart } from '@mui/x-charts/BarChart';
-
-const chartBox = (
-  title: string,
-  value: string,
-  variation: string,
-  iconName: 'seller-icon' | 'stock-icon' | 'sells-icon' | 'pending-icon',
-) => {
-  const iconPath = `/images/icons/${iconName}.svg`;
-
-  return (
-  <Card sx={{ p: 2, borderRadius: 3, background: '#fafafa' }}>
-    <CardContent>
-      <Box display="flex" justifyContent="space-between" alignItems="center">
-        <Typography variant="h6" sx={{ marginRight: 2 }}>{title}</Typography>
-        <Image src={iconPath} alt={iconName} width={52} height={52} />
-      </Box>
-      <Typography variant="h4" mt={2}>{value}</Typography>
-      <Typography variant="body2" color="text.secondary">
-        <strong style={{ color: 'green' }}>{variation}</strong> vs ontem
-      </Typography>
-    </CardContent>
-  </Card>
-)};
+import ChartBox from '@/components/ChartBox';
 
 export default function MarketAnalysisPage() {
   const keywordData = [
@@ -58,14 +35,13 @@ export default function MarketAnalysisPage() {
       </Typography>
 
       <Grid container spacing={3} mb={4}>
-        <Grid item xs={12} md={3}>{chartBox('Vendedores', '1.253', '8,5%', 'seller-icon')}</Grid>
-        <Grid item xs={12} md={3}>{chartBox('Estoque Full', '3.457', '4,2%', 'stock-icon')}</Grid>
-        <Grid item xs={12} md={3}>{chartBox('Vendas', '1.208', '6,3%', 'sells-icon')}</Grid>
-        <Grid item xs={12} md={3}>{chartBox('Pendentes', '245', '2,1%', 'pending-icon')}</Grid>
+        <ChartBox title="Vendedores" value="1.253" variation="8,5%" iconName="seller-icon" />
+        <ChartBox title="Estoque Full" value="3.457" variation="4,2%" iconName="stock-icon" />
+        <ChartBox title="Vendas" value="1.208" variation="6,3%" iconName="sells-icon" />
+        <ChartBox title="Pendentes" value="245" variation="2,1%" iconName="pending-icon" />
       </Grid>
 
       <Grid container spacing={3} mb={4}>
-        <Grid item xs={12} md={4}>
           <Card sx={{ p: 2, borderRadius: 3, background: '#fafafa' }}>
             <CardContent>
               <Typography variant="h6" mb={2}>Análises por Estado</Typography>
@@ -77,9 +53,7 @@ export default function MarketAnalysisPage() {
               />
             </CardContent>
           </Card>
-        </Grid>
 
-        <Grid item xs={12} md={4}>
           <Card sx={{ p: 2, borderRadius: 3, background: '#fafafa' }}>
             <CardContent>
               <Typography variant="h6" mb={2}>Tempo na primeira página</Typography>
@@ -91,9 +65,7 @@ export default function MarketAnalysisPage() {
               />
             </CardContent>
           </Card>
-        </Grid>
 
-        <Grid item xs={12} md={4}>
           <Card sx={{ p: 2, borderRadius: 3, background: '#fafafa' }}>
             <CardContent>
               <Typography variant="h6" mb={2}>Palavras-chave</Typography>
@@ -118,7 +90,6 @@ export default function MarketAnalysisPage() {
               </List>
             </CardContent>
           </Card>
-        </Grid>
       </Grid>
 
       <Card sx={{ p: 2, borderRadius: 3 }}>

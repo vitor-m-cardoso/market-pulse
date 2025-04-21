@@ -40,18 +40,18 @@ export default function ProductTrendsPage() {
         Buscas que mais cresceram:
       </Typography>
       <Grid container spacing={3} mb={4}>
-        <Grid item xs={12} md={3}>{chartBox('1º MAIOR CRESCIMENTO', 'Teclado', 'sells-icon')}</Grid>
-        <Grid item xs={12} md={3}>{chartBox('2º MAIOR CRESCIMENTO', 'Cooler', 'sells-icon')}</Grid>
-        <Grid item xs={12} md={3}>{chartBox('3º MAIOR CRESCIMENTO', 'Moto elétrica', 'sells-icon')}</Grid>
+        {chartBox('1º MAIOR CRESCIMENTO', 'Teclado', 'sells-icon')}
+        {chartBox('2º MAIOR CRESCIMENTO', 'Cooler', 'sells-icon')}
+        {chartBox('3º MAIOR CRESCIMENTO', 'Moto elétrica', 'sells-icon')}
       </Grid>
 
       <Typography mb={3}>
         As buscas mais desejadas:
       </Typography>
       <Grid container spacing={3} mb={4}>
-        <Grid item xs={12} md={3}>{chartBox('1º MAIS DESEJADA', 'Internet Starlink', 'stock-icon')}</Grid>
-        <Grid item xs={12} md={3}>{chartBox('2º MAIS DESEJADA', 'Creatina Growth', 'stock-icon')}</Grid>
-        <Grid item xs={12} md={3}>{chartBox('3º MAIS DESEJADA', 'Playstation 5', 'stock-icon')}</Grid>
+        {chartBox('1º MAIS DESEJADA', 'Internet Starlink', 'stock-icon')}
+        {chartBox('2º MAIS DESEJADA', 'Creatina Growth', 'stock-icon')}
+        {chartBox('3º MAIS DESEJADA', 'Playstation 5', 'stock-icon')}
       </Grid>
 
       <Card sx={{ p: 2, borderRadius: 3 }}>

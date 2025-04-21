@@ -51,55 +51,45 @@ export default function ReportsPage() {
 
       {/* Filtros */}
       <Grid container spacing={2} mb={3} alignItems="center">
-        <Grid item>
-          <Button
-            variant="outlined"
-            startIcon={<FilterAltOutlinedIcon />}
-            sx={{ height: '100%' }}
-          >
-            Filtrar por
-          </Button>
-        </Grid>
+        <Button
+          variant="outlined"
+          startIcon={<FilterAltOutlinedIcon />}
+          sx={{ height: '100%' }}
+        >
+          Filtrar por
+        </Button>
 
-        <Grid item>
-          <FormControl size="small">
-            <Select displayEmpty defaultValue="">
-              <MenuItem value="">Data</MenuItem>
-              <MenuItem value="30">Últimos 30 dias</MenuItem>
-              <MenuItem value="90">Últimos 90 dias</MenuItem>
-            </Select>
-          </FormControl>
-        </Grid>
+        <FormControl size="small">
+          <Select displayEmpty defaultValue="">
+            <MenuItem value="">Data</MenuItem>
+            <MenuItem value="30">Últimos 30 dias</MenuItem>
+            <MenuItem value="90">Últimos 90 dias</MenuItem>
+          </Select>
+        </FormControl>
 
-        <Grid item>
-          <FormControl size="small">
-            <Select displayEmpty defaultValue="">
-              <MenuItem value="">Região</MenuItem>
-              <MenuItem value="sudeste">Sudeste</MenuItem>
-              <MenuItem value="sul">Sul</MenuItem>
-            </Select>
-          </FormControl>
-        </Grid>
+        <FormControl size="small">
+          <Select displayEmpty defaultValue="">
+            <MenuItem value="">Região</MenuItem>
+            <MenuItem value="sudeste">Sudeste</MenuItem>
+            <MenuItem value="sul">Sul</MenuItem>
+          </Select>
+        </FormControl>
 
-        <Grid item>
-          <FormControl size="small">
-            <Select displayEmpty defaultValue="">
-              <MenuItem value="">Categoria</MenuItem>
-              <MenuItem value="moda">Moda</MenuItem>
-              <MenuItem value="eletronicos">Eletrônicos</MenuItem>
-            </Select>
-          </FormControl>
-        </Grid>
+        <FormControl size="small">
+          <Select displayEmpty defaultValue="">
+            <MenuItem value="">Categoria</MenuItem>
+            <MenuItem value="moda">Moda</MenuItem>
+            <MenuItem value="eletronicos">Eletrônicos</MenuItem>
+          </Select>
+        </FormControl>
 
-        <Grid item>
-          <Button
-            variant="outlined"
-            color="error"
-            startIcon={<ReplayIcon />}
-          >
-            Resetar Filtro
-          </Button>
-        </Grid>
+        <Button
+          variant="outlined"
+          color="error"
+          startIcon={<ReplayIcon />}
+        >
+          Resetar Filtro
+        </Button>
       </Grid>
 
       {/* Tabela de Relatórios */}
