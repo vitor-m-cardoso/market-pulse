@@ -13,16 +13,16 @@ import {
   Paper,
 } from '@mui/material';
 
-import { useAuth } from '@/contexts/AuthContext';
+// import { useAuth } from '@/contexts/AuthContext';
 import { useRouter } from 'next/navigation';
 
 export default function Login() {
-  const { login } = useAuth();
+  // const { login } = useAuth();
   const router = useRouter();
 
   const handleLogin = () => {
-    login();
-    router.push('/dashboard');
+    // login();
+    router.push('/dashboard/market-analysis');
   }
 
   return (

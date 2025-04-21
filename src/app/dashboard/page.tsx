@@ -1,3 +1,3 @@
 export default function DashboardHome() {
-  return <div>Bem-vindo ao Dashboard!</div>;
+  return (<div>Boas vindas ao dashboard!</div>);
 }

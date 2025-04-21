@@ -7,8 +7,6 @@ import {
   CardContent,
   Grid,
   List,
-  ListItem,
-  ListItemText,
   Typography,
 } from '@mui/material';
 import Image from 'next/image';

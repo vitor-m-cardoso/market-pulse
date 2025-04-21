@@ -106,7 +106,7 @@ export default function ReportsPage() {
       <TableContainer component={Paper}>
         <Table>
           <TableHead>
-            <TableRow>
+            <TableRow sx={{ background: '#fafafa' }}>
               <TableCell><strong>NOME</strong></TableCell>
               <TableCell><strong>DESCRIÇÃO</strong></TableCell>
               <TableCell><strong>FORMATO</strong></TableCell>
