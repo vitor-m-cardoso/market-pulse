@@ -19,7 +19,7 @@ const chartBox = (
   const iconPath = `/images/icons/${iconName}.svg`;
 
   return (
-  <Card sx={{ p: 2, borderRadius: 3, background: '#fafafa' }}>
+  <Card sx={{ borderRadius: 3, background: '#fafafa' }}>
     <CardContent>
       <Box display="flex" justifyContent="space-between" alignItems="center">
         <Typography variant="h6" sx={{ marginRight: 2 }}>{title}</Typography>
