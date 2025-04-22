@@ -1,0 +1,251 @@
+categoria,nome,marca,modelo,armazenamento_interno,memoria_ram,sistema_operacional,tamanho_tela,bateria_inclusa,tipo_conector,marketplace,tipo_movel,material_principal,cor,dimensoes,peso_produto,tem_rodinhas,tipo_produto,tamanho,composicao,quantidade_pecas,gramatura,quantidade_fios,hipoalergenico,titulo,autor,editora,ano_publicacao,idioma,numero_paginas,isbn,genero,voltagem,capacidade,consumo_energia,tipo
+eletronicos,Smartphone iPhone 13,Lenovo,Moto G100,64.0,4.0,iOS,12.8,sim,USB-C,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Estante Compacto,Etna,M-225,,,,,,,Shopee,guarda-roupa,madeira maciça,branco,167x69x53 cm,67.2,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Luxo,Santista,,,,,,,,Amazon,,,azul,,,,jogo de cama,solteiro,poliéster,1.0,400.0,200.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,1984,George Orwell,Alta Books,1992.0,inglês,457.0,978-51-92318-0,aventura,,,,
+eletrodomesticos,Fogão Inox,Brastemp,ELX655,,,,,,,Shopee,,,inox,,,,,,,,,,,,,,,,,,,110V,450L,50.9,lava-roupas
+eletronicos,Smartphone Zenfone 9,Lenovo,iPhone 13,256.0,4.0,Windows,8.3,não,Lightning,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Cadeira Compacto,Mobly,M-344,,,,,,,Shopee,guarda-roupa,MDF,preto,125x109x66 cm,25.9,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Edredom Luxo,Artex,,,,,,,,Amazon,,,cinza,,,,edredom,king,100% algodão,5.0,250.0,200.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,Mindset,George Orwell,Companhia das Letras,2007.0,português,761.0,978-96-35766-9,clássico,,,,
+eletrodomesticos,Geladeira Digital,Brastemp,CS781,,,,,,,Amazon,,,inox,,,,,,,,,,,,,,,,,,,220V,12kg,36.6,micro-ondas
+eletronicos,Tablet iPhone 13,Samsung,A53 5G,256.0,12.0,Android,14.2,sim,Lightning,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Mesa Ergonômico,Mobly,M-553,,,,,,,Mercado Livre,guarda-roupa,MDF,branco,191x180x89 cm,24.9,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Edredom Premium,Trussardi,,,,,,,,Shopee,,,azul,,,,edredom,casal,poliéster,3.0,300.0,300.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,Mindset,J.K. Rowling,Rocco,2010.0,inglês,370.0,978-72-50423-8,aventura,,,,
+eletrodomesticos,Geladeira Inox,Panasonic,ELX494,,,,,,,Amazon,,,branco,,,,,,,,,,,,,,,,,,,110V,15kg,44.0,fogão
+eletronicos,Smartphone ThinkPad E14,Asus,ThinkPad E14,128.0,8.0,iOS,15.6,sim,Micro-USB,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Cadeira Premium,Tok&Stok,M-603,,,,,,,Mercado Livre,estante,madeira maciça,nogueira,193x161x82 cm,27.3,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Luxo,Buddemeyer,,,,,,,,Shopee,,,bege,,,,toalha,queen,microfibra,4.0,300.0,600.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,O Pequeno Príncipe,Carol Dweck,Alta Books,2020.0,inglês,701.0,978-54-84786-8,ficção,,,,
+eletrodomesticos,Fogão Inox,Consul,BR287,,,,,,,Amazon,,,branco,,,,,,,,,,,,,,,,,,,220V,450L,48.8,fogão
+eletronicos,Notebook A53 5G,Samsung,ThinkPad E14,64.0,6.0,Android,12.9,não,Micro-USB,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Cadeira Ergonômico,Mobly,M-357,,,,,,,Shopee,cadeira,vidro temperado,preto,141x108x40 cm,61.1,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Luxo,Artex,,,,,,,,Mercado Livre,,,azul,,,,jogo de cama,solteiro,algodão egípcio,4.0,300.0,300.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,Dom Casmurro,Yuval Noah Harari,HarperCollins,2005.0,português,303.0,978-18-16398-1,aventura,,,,
+eletrodomesticos,Forno elétrico Digital,Consul,ELX488,,,,,,,Mercado Livre,,,branco,,,,,,,,,,,,,,,,,,,Bivolt,30L,28.7,micro-ondas
+eletronicos,Notebook Redmi Note 12,Xiaomi,ThinkPad E14,256.0,6.0,Android,15.5,sim,USB 3.0,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Mesa Premium,Oppa,M-219,,,,,,,Mercado Livre,cadeira,vidro temperado,nogueira,79x105x48 cm,73.7,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Luxo,Trussardi,,,,,,,,Shopee,,,branco,,,,jogo de cama,solteiro,100% algodão,3.0,250.0,400.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,1984,George Orwell,Rocco,1999.0,inglês,539.0,978-50-70847-1,fantasia,,,,
+eletrodomesticos,Fogão Branco,Brastemp,CS206,,,,,,,Shopee,,,inox,,,,,,,,,,,,,,,,,,,Bivolt,45L,28.9,forno elétrico
+eletronicos,Tablet Redmi Note 12,Xiaomi,ThinkPad E14,128.0,4.0,MIUI,5.9,sim,Lightning,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Guarda-roupa Compacto,Tok&Stok,M-585,,,,,,,Shopee,estante,aço,preto,104x160x45 cm,46.2,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Edredom Luxo,Santista,,,,,,,,Shopee,,,branco,,,,edredom,casal,microfibra,3.0,150.0,400.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,Clean Code,George Orwell,Rocco,1983.0,português,744.0,978-46-34601-4,técnico,,,,
+eletrodomesticos,Geladeira Branco,Panasonic,CS380,,,,,,,Shopee,,,branco,,,,,,,,,,,,,,,,,,,220V,45L,23.3,lava-roupas
+eletronicos,Notebook A53 5G,Asus,A53 5G,256.0,4.0,MIUI,6.9,não,USB 3.0,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Mesa Premium,Sierra,M-708,,,,,,,Mercado Livre,rack,vidro temperado,nogueira,144x157x83 cm,96.3,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Premium,Karsten,,,,,,,,Shopee,,,verde,,,,toalha,king,microfibra,3.0,150.0,600.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,Clean Code,J.K. Rowling,HarperCollins,2017.0,português,599.0,978-76-64703-9,aventura,,,,
+eletrodomesticos,Micro-ondas Inox,Consul,CS547,,,,,,,Shopee,,,inox,,,,,,,,,,,,,,,,,,,110V,15kg,59.5,lava-roupas
+eletronicos,Notebook iPhone 13,Lenovo,Moto G100,256.0,16.0,iOS,12.4,não,Micro-USB,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Guarda-roupa Luxo,Mobly,M-481,,,,,,,Mercado Livre,mesa,vidro temperado,carvalho,99x170x99 cm,43.2,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Maciez Extra,Artex,,,,,,,,Shopee,,,branco,,,,jogo de cama,casal,100% algodão,1.0,300.0,300.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,1984,Machado de Assis,Alta Books,1996.0,inglês,357.0,978-68-24647-9,ficção,,,,
+eletrodomesticos,Lava-roupas Digital,Panasonic,ELX849,,,,,,,Shopee,,,branco,,,,,,,,,,,,,,,,,,,Bivolt,15kg,39.8,forno elétrico
+eletronicos,Smartphone ThinkPad E14,Lenovo,A53 5G,512.0,8.0,MIUI,9.1,não,Micro-USB,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Cadeira Premium,Etna,M-224,,,,,,,Amazon,mesa,madeira maciça,carvalho,174x93x90 cm,98.4,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Premium,Trussardi,,,,,,,,Amazon,,,azul,,,,toalha,king,poliéster,5.0,250.0,600.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,Dom Casmurro,Charles Duhigg,Companhia das Letras,2022.0,inglês,175.0,978-54-73295-8,fantasia,,,,
+eletrodomesticos,Fogão Digital,Panasonic,ELX856,,,,,,,Amazon,,,inox,,,,,,,,,,,,,,,,,,,Bivolt,12kg,20.3,micro-ondas
+eletronicos,Notebook Zenfone 9,Samsung,Redmi Note 12,512.0,6.0,iOS,14.9,sim,Micro-USB,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Mesa Ergonômico,Oppa,M-286,,,,,,,Shopee,cadeira,vidro temperado,preto,149x160x81 cm,30.6,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Maciez Extra,Buddemeyer,,,,,,,,Shopee,,,azul,,,,jogo de cama,solteiro,poliéster,2.0,400.0,400.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,Harry Potter e a Pedra Filosofal,George Orwell,Alta Books,2019.0,inglês,581.0,978-33-46584-3,clássico,,,,
+eletrodomesticos,Micro-ondas Digital,LG,CS736,,,,,,,Shopee,,,branco,,,,,,,,,,,,,,,,,,,Bivolt,450L,33.3,fogão
+eletronicos,Tablet Redmi Note 12,Apple,ThinkPad E14,64.0,12.0,Windows,12.1,não,Micro-USB,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Sofá Ergonômico,Etna,M-809,,,,,,,Amazon,sofá,madeira maciça,cinza,127x156x72 cm,16.1,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Edredom Premium,Karsten,,,,,,,,Amazon,,,bege,,,,edredom,king,algodão egípcio,3.0,150.0,600.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,O Poder do Hábito,Yuval Noah Harari,Rocco,1980.0,inglês,302.0,978-17-70616-3,técnico,,,,
+eletrodomesticos,Geladeira Inox,Brastemp,BR339,,,,,,,Mercado Livre,,,preto,,,,,,,,,,,,,,,,,,,110V,12kg,46.0,forno elétrico
+eletronicos,Notebook Redmi Note 12,Apple,iPhone 13,256.0,16.0,Windows,10.7,não,USB 3.0,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Rack Ergonômico,Etna,M-292,,,,,,,Amazon,guarda-roupa,aço,cinza,89x115x76 cm,58.4,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Premium,Artex,,,,,,,,Mercado Livre,,,rosa,,,,jogo de cama,queen,100% algodão,3.0,150.0,600.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,Sapiens,Yuval Noah Harari,HarperCollins,2017.0,inglês,133.0,978-73-70936-3,autoajuda,,,,
+eletrodomesticos,Geladeira Inox,Brastemp,CS592,,,,,,,Mercado Livre,,,branco,,,,,,,,,,,,,,,,,,,220V,450L,45.8,fogão
+eletronicos,Tablet A53 5G,Motorola,Zenfone 9,64.0,6.0,Android,7.1,sim,USB 3.0,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Mesa Ergonômico,Tok&Stok,M-780,,,,,,,Mercado Livre,estante,madeira maciça,carvalho,151x106x65 cm,59.2,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Luxo,Artex,,,,,,,,Mercado Livre,,,verde,,,,jogo de cama,solteiro,100% algodão,3.0,250.0,400.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,O Senhor dos Anéis,Charles Duhigg,HarperCollins,2009.0,inglês,259.0,978-24-16429-2,autoajuda,,,,
+eletrodomesticos,Geladeira Branco,Brastemp,BR612,,,,,,,Mercado Livre,,,branco,,,,,,,,,,,,,,,,,,,220V,450L,23.1,forno elétrico
+eletronicos,Notebook Redmi Note 12,Motorola,Zenfone 9,256.0,4.0,iOS,8.3,não,USB-C,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Cadeira Premium,Mobly,M-489,,,,,,,Shopee,cadeira,MDF,preto,177x128x57 cm,88.7,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Edredom Maciez Extra,Karsten,,,,,,,,Mercado Livre,,,verde,,,,edredom,king,100% algodão,4.0,250.0,600.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,Clean Code,Yuval Noah Harari,Intrínseca,2001.0,português,431.0,978-21-96347-8,autoajuda,,,,
+eletrodomesticos,Fogão Branco,Panasonic,BR242,,,,,,,Mercado Livre,,,branco,,,,,,,,,,,,,,,,,,,Bivolt,12kg,29.1,lava-roupas
+eletronicos,Notebook Zenfone 9,Xiaomi,Redmi Note 12,128.0,16.0,Android,6.3,sim,USB 3.0,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Rack Ergonômico,Mobly,M-872,,,,,,,Mercado Livre,cadeira,vidro temperado,preto,177x100x59 cm,44.6,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Maciez Extra,Buddemeyer,,,,,,,,Shopee,,,branco,,,,jogo de cama,casal,poliéster,5.0,150.0,200.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,Sapiens,Machado de Assis,Companhia das Letras,2005.0,português,249.0,978-76-32448-4,clássico,,,,
+eletrodomesticos,Geladeira Digital,Electrolux,BR391,,,,,,,Shopee,,,preto,,,,,,,,,,,,,,,,,,,220V,15kg,58.3,lava-roupas
+eletronicos,Smartphone Zenfone 9,Lenovo,ThinkPad E14,128.0,6.0,Android,10.4,não,Micro-USB,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Guarda-roupa Luxo,Mobly,M-366,,,,,,,Amazon,estante,madeira maciça,cinza,111x148x69 cm,81.4,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Premium,Santista,,,,,,,,Shopee,,,cinza,,,,toalha,casal,algodão egípcio,3.0,300.0,600.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,O Pequeno Príncipe,Machado de Assis,HarperCollins,1984.0,português,451.0,978-70-77577-5,clássico,,,,
+eletrodomesticos,Micro-ondas Inox,Brastemp,ELX936,,,,,,,Amazon,,,preto,,,,,,,,,,,,,,,,,,,220V,45L,53.5,micro-ondas
+eletronicos,Notebook ThinkPad E14,Xiaomi,ThinkPad E14,64.0,4.0,iOS,12.8,não,Micro-USB,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Estante Ergonômico,MadeiraMadeira,M-974,,,,,,,Shopee,estante,madeira maciça,branco,172x134x46 cm,41.1,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Edredom Luxo,Artex,,,,,,,,Amazon,,,branco,,,,edredom,casal,poliéster,2.0,300.0,300.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,1984,Robert C. Martin,Alta Books,2021.0,português,615.0,978-16-92430-1,autoajuda,,,,
+eletrodomesticos,Micro-ondas Digital,Electrolux,ELX643,,,,,,,Mercado Livre,,,branco,,,,,,,,,,,,,,,,,,,110V,45L,49.0,forno elétrico
+eletronicos,Smartphone A53 5G,Motorola,iPhone 13,64.0,4.0,iOS,9.0,sim,Micro-USB,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Cadeira Luxo,Sierra,M-432,,,,,,,Shopee,sofá,MDF,carvalho,82x78x79 cm,23.3,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Maciez Extra,Santista,,,,,,,,Amazon,,,bege,,,,toalha,king,algodão egípcio,5.0,500.0,200.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,Clean Code,George Orwell,HarperCollins,2018.0,português,727.0,978-51-19630-1,técnico,,,,
+eletrodomesticos,Lava-roupas Inox,Electrolux,ELX977,,,,,,,Amazon,,,preto,,,,,,,,,,,,,,,,,,,110V,15kg,56.4,geladeira
+eletronicos,Notebook ThinkPad E14,Samsung,Redmi Note 12,64.0,4.0,Windows,5.8,sim,USB 3.0,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Guarda-roupa Premium,Mobly,M-584,,,,,,,Amazon,mesa,vidro temperado,carvalho,105x90x85 cm,54.0,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Edredom Luxo,Trussardi,,,,,,,,Mercado Livre,,,rosa,,,,edredom,casal,algodão egípcio,2.0,500.0,300.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,O Senhor dos Anéis,J.R.R. Tolkien,Rocco,2019.0,inglês,720.0,978-48-43623-6,clássico,,,,
+eletrodomesticos,Lava-roupas Branco,Brastemp,CS418,,,,,,,Amazon,,,inox,,,,,,,,,,,,,,,,,,,220V,375L,59.5,geladeira
+eletronicos,Smartphone ThinkPad E14,Xiaomi,Zenfone 9,128.0,4.0,Windows,5.8,não,USB 3.0,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Estante Luxo,Etna,M-121,,,,,,,Shopee,mesa,madeira maciça,branco,79x174x40 cm,50.6,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Edredom Premium,Santista,,,,,,,,Amazon,,,branco,,,,edredom,queen,microfibra,5.0,150.0,200.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,A Revolução dos Bichos,Charles Duhigg,Rocco,1988.0,inglês,749.0,978-19-83224-6,clássico,,,,
+eletrodomesticos,Forno elétrico Branco,Electrolux,ELX422,,,,,,,Amazon,,,inox,,,,,,,,,,,,,,,,,,,110V,15kg,42.4,micro-ondas
+eletronicos,Notebook Redmi Note 12,Asus,Moto G100,512.0,12.0,Windows,14.7,sim,USB 3.0,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Estante Luxo,MadeiraMadeira,M-999,,,,,,,Amazon,estante,aço,branco,101x63x82 cm,20.3,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Premium,Artex,,,,,,,,Mercado Livre,,,bege,,,,toalha,king,algodão egípcio,4.0,400.0,300.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,O Senhor dos Anéis,J.K. Rowling,Rocco,2012.0,inglês,301.0,978-72-80814-3,fantasia,,,,
+eletrodomesticos,Micro-ondas Branco,Panasonic,CS897,,,,,,,Shopee,,,branco,,,,,,,,,,,,,,,,,,,110V,450L,20.6,micro-ondas
+eletronicos,Smartphone Moto G100,Samsung,ThinkPad E14,256.0,12.0,MIUI,15.3,não,USB-C,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Guarda-roupa Compacto,MadeiraMadeira,M-734,,,,,,,Amazon,rack,vidro temperado,cinza,101x147x69 cm,69.2,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Edredom Maciez Extra,Karsten,,,,,,,,Amazon,,,rosa,,,,edredom,casal,microfibra,4.0,300.0,200.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,A Revolução dos Bichos,Charles Duhigg,Companhia das Letras,2016.0,inglês,555.0,978-71-11883-0,fantasia,,,,
+eletrodomesticos,Lava-roupas Branco,Panasonic,CS759,,,,,,,Mercado Livre,,,inox,,,,,,,,,,,,,,,,,,,Bivolt,45L,41.3,micro-ondas
+eletronicos,Smartphone Zenfone 9,Apple,Redmi Note 12,256.0,4.0,MIUI,8.1,sim,USB-C,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Estante Premium,MadeiraMadeira,M-273,,,,,,,Mercado Livre,mesa,aço,branco,177x133x81 cm,20.2,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Luxo,Karsten,,,,,,,,Shopee,,,branco,,,,toalha,queen,microfibra,2.0,300.0,300.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,Sapiens,Charles Duhigg,Intrínseca,1998.0,português,511.0,978-88-20733-9,fantasia,,,,
+eletrodomesticos,Geladeira Inox,Consul,CS792,,,,,,,Amazon,,,inox,,,,,,,,,,,,,,,,,,,Bivolt,375L,59.3,geladeira
+eletronicos,Tablet Zenfone 9,Xiaomi,A53 5G,256.0,6.0,Windows,14.6,não,Lightning,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Rack Compacto,Oppa,M-761,,,,,,,Amazon,guarda-roupa,madeira maciça,preto,81x154x70 cm,71.2,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Edredom Premium,Karsten,,,,,,,,Mercado Livre,,,branco,,,,edredom,king,algodão egípcio,4.0,500.0,200.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,O Poder do Hábito,Machado de Assis,HarperCollins,2000.0,inglês,493.0,978-39-56410-3,técnico,,,,
+eletrodomesticos,Lava-roupas Branco,Brastemp,ELX380,,,,,,,Shopee,,,inox,,,,,,,,,,,,,,,,,,,220V,12kg,58.4,forno elétrico
+eletronicos,Tablet Zenfone 9,Lenovo,ThinkPad E14,64.0,16.0,iOS,10.4,não,USB-C,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Estante Compacto,Sierra,M-989,,,,,,,Amazon,rack,madeira maciça,carvalho,186x114x68 cm,58.0,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Luxo,Karsten,,,,,,,,Mercado Livre,,,rosa,,,,jogo de cama,queen,algodão egípcio,5.0,400.0,600.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,O Poder do Hábito,Yuval Noah Harari,Rocco,1982.0,inglês,234.0,978-69-34953-0,aventura,,,,
+eletrodomesticos,Micro-ondas Digital,Panasonic,ELX152,,,,,,,Shopee,,,preto,,,,,,,,,,,,,,,,,,,Bivolt,12kg,23.6,fogão
+eletronicos,Smartphone Redmi Note 12,Samsung,A53 5G,64.0,12.0,Android,12.9,sim,Lightning,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Sofá Ergonômico,Sierra,M-711,,,,,,,Amazon,cadeira,vidro temperado,preto,191x118x87 cm,15.6,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Maciez Extra,Buddemeyer,,,,,,,,Mercado Livre,,,cinza,,,,jogo de cama,casal,algodão egípcio,2.0,500.0,400.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,1984,Carol Dweck,Rocco,1983.0,português,335.0,978-35-84478-2,ficção,,,,
+eletrodomesticos,Lava-roupas Digital,LG,CS866,,,,,,,Amazon,,,preto,,,,,,,,,,,,,,,,,,,110V,45L,47.1,fogão
+eletronicos,Smartphone Zenfone 9,Lenovo,Redmi Note 12,256.0,8.0,MIUI,6.2,sim,Micro-USB,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Sofá Luxo,Oppa,M-224,,,,,,,Mercado Livre,guarda-roupa,vidro temperado,preto,101x61x45 cm,54.2,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Premium,Santista,,,,,,,,Mercado Livre,,,verde,,,,jogo de cama,solteiro,algodão egípcio,2.0,250.0,600.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,O Pequeno Príncipe,J.K. Rowling,HarperCollins,2014.0,inglês,237.0,978-82-21262-1,autoajuda,,,,
+eletrodomesticos,Geladeira Digital,Philco,ELX178,,,,,,,Mercado Livre,,,inox,,,,,,,,,,,,,,,,,,,Bivolt,45L,23.0,fogão
+eletronicos,Tablet Moto G100,Asus,Moto G100,64.0,16.0,Android,10.0,sim,USB-C,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Rack Ergonômico,Tok&Stok,M-920,,,,,,,Shopee,guarda-roupa,madeira maciça,branco,135x155x50 cm,28.5,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Edredom Luxo,Karsten,,,,,,,,Shopee,,,verde,,,,edredom,queen,microfibra,1.0,250.0,300.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,O Pequeno Príncipe,Machado de Assis,Companhia das Letras,1987.0,português,436.0,978-12-13409-3,ficção,,,,
+eletrodomesticos,Forno elétrico Digital,LG,ELX991,,,,,,,Amazon,,,branco,,,,,,,,,,,,,,,,,,,220V,12kg,25.4,micro-ondas
+eletronicos,Tablet A53 5G,Lenovo,A53 5G,128.0,4.0,Windows,7.3,não,USB-C,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Mesa Ergonômico,Oppa,M-366,,,,,,,Amazon,mesa,madeira maciça,nogueira,153x136x43 cm,11.6,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Luxo,Karsten,,,,,,,,Amazon,,,verde,,,,jogo de cama,casal,microfibra,3.0,400.0,600.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,Sapiens,George Orwell,Alta Books,2011.0,português,289.0,978-40-28330-3,autoajuda,,,,
+eletrodomesticos,Fogão Inox,Brastemp,CS665,,,,,,,Shopee,,,inox,,,,,,,,,,,,,,,,,,,110V,375L,40.5,geladeira
+eletronicos,Notebook A53 5G,Apple,A53 5G,128.0,6.0,Android,15.5,sim,Lightning,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Estante Ergonômico,Oppa,M-213,,,,,,,Shopee,sofá,aço,branco,134x65x42 cm,54.5,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Edredom Premium,Karsten,,,,,,,,Shopee,,,azul,,,,edredom,casal,100% algodão,3.0,400.0,200.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,Clean Code,J.R.R. Tolkien,Companhia das Letras,1987.0,português,451.0,978-36-38387-4,clássico,,,,
+eletrodomesticos,Lava-roupas Branco,LG,BR635,,,,,,,Shopee,,,inox,,,,,,,,,,,,,,,,,,,220V,375L,29.8,forno elétrico
+eletronicos,Notebook Redmi Note 12,Apple,Moto G100,64.0,6.0,MIUI,13.6,sim,Lightning,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Mesa Ergonômico,Oppa,M-119,,,,,,,Shopee,cadeira,aço,preto,71x124x82 cm,14.0,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Premium,Artex,,,,,,,,Mercado Livre,,,verde,,,,toalha,casal,algodão egípcio,4.0,250.0,400.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,1984,Robert C. Martin,Companhia das Letras,2017.0,português,739.0,978-12-63108-7,autoajuda,,,,
+eletrodomesticos,Geladeira Branco,Consul,CS468,,,,,,,Amazon,,,branco,,,,,,,,,,,,,,,,,,,Bivolt,15kg,46.2,forno elétrico
+eletronicos,Smartphone ThinkPad E14,Samsung,Redmi Note 12,256.0,16.0,Android,6.0,não,Lightning,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Rack Ergonômico,Mobly,M-978,,,,,,,Mercado Livre,estante,madeira maciça,carvalho,129x136x81 cm,68.1,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Maciez Extra,Santista,,,,,,,,Mercado Livre,,,rosa,,,,jogo de cama,casal,poliéster,4.0,300.0,400.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,Harry Potter e a Pedra Filosofal,Machado de Assis,Rocco,1995.0,português,474.0,978-83-41452-0,clássico,,,,
+eletrodomesticos,Geladeira Inox,Consul,CS651,,,,,,,Mercado Livre,,,preto,,,,,,,,,,,,,,,,,,,110V,30L,38.9,lava-roupas
+eletronicos,Tablet Moto G100,Asus,ThinkPad E14,64.0,8.0,MIUI,12.0,sim,Lightning,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Mesa Ergonômico,Mobly,M-264,,,,,,,Shopee,cadeira,aço,carvalho,170x165x78 cm,66.0,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Luxo,Trussardi,,,,,,,,Amazon,,,rosa,,,,jogo de cama,queen,microfibra,3.0,250.0,600.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,Sapiens,J.R.R. Tolkien,Rocco,1986.0,português,534.0,978-43-30790-2,clássico,,,,
+eletrodomesticos,Lava-roupas Inox,Panasonic,CS716,,,,,,,Amazon,,,preto,,,,,,,,,,,,,,,,,,,220V,45L,52.5,micro-ondas
+eletronicos,Tablet Redmi Note 12,Asus,Zenfone 9,512.0,12.0,iOS,5.9,não,Lightning,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Rack Ergonômico,MadeiraMadeira,M-984,,,,,,,Amazon,rack,vidro temperado,cinza,196x155x46 cm,49.0,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Maciez Extra,Trussardi,,,,,,,,Amazon,,,cinza,,,,toalha,casal,100% algodão,1.0,500.0,300.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,O Senhor dos Anéis,Yuval Noah Harari,Alta Books,2009.0,inglês,374.0,978-12-51867-1,clássico,,,,
+eletrodomesticos,Forno elétrico Inox,Panasonic,BR486,,,,,,,Shopee,,,branco,,,,,,,,,,,,,,,,,,,220V,15kg,23.4,lava-roupas
+eletronicos,Smartphone A53 5G,Xiaomi,iPhone 13,512.0,8.0,iOS,15.2,não,Lightning,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Rack Ergonômico,Mobly,M-586,,,,,,,Amazon,sofá,aço,carvalho,149x155x47 cm,89.5,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Premium,Artex,,,,,,,,Shopee,,,bege,,,,jogo de cama,solteiro,100% algodão,3.0,150.0,200.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,Sapiens,J.R.R. Tolkien,Alta Books,2004.0,português,372.0,978-20-51672-8,fantasia,,,,
+eletrodomesticos,Micro-ondas Inox,Electrolux,ELX738,,,,,,,Mercado Livre,,,inox,,,,,,,,,,,,,,,,,,,220V,375L,48.8,lava-roupas
+eletronicos,Smartphone ThinkPad E14,Xiaomi,A53 5G,512.0,12.0,iOS,11.7,sim,USB-C,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Mesa Luxo,MadeiraMadeira,M-529,,,,,,,Mercado Livre,rack,MDF,nogueira,98x113x73 cm,92.3,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Premium,Karsten,,,,,,,,Mercado Livre,,,cinza,,,,jogo de cama,queen,poliéster,3.0,400.0,600.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,Mindset,Machado de Assis,HarperCollins,1998.0,inglês,649.0,978-42-93628-6,autoajuda,,,,
+eletrodomesticos,Forno elétrico Digital,Brastemp,BR567,,,,,,,Shopee,,,preto,,,,,,,,,,,,,,,,,,,110V,30L,50.6,micro-ondas
+eletronicos,Notebook ThinkPad E14,Lenovo,Redmi Note 12,64.0,4.0,iOS,9.5,não,USB 3.0,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Sofá Ergonômico,Tok&Stok,M-878,,,,,,,Mercado Livre,rack,MDF,nogueira,105x178x100 cm,15.4,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Premium,Santista,,,,,,,,Amazon,,,azul,,,,toalha,queen,100% algodão,4.0,500.0,200.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,A Revolução dos Bichos,George Orwell,Alta Books,1998.0,inglês,342.0,978-60-60957-3,ficção,,,,
+eletrodomesticos,Micro-ondas Inox,LG,BR386,,,,,,,Shopee,,,branco,,,,,,,,,,,,,,,,,,,Bivolt,15kg,27.9,geladeira
+eletronicos,Notebook Moto G100,Motorola,Zenfone 9,512.0,6.0,iOS,15.3,sim,USB-C,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Rack Ergonômico,Etna,M-212,,,,,,,Shopee,cadeira,vidro temperado,nogueira,72x85x87 cm,62.1,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Premium,Trussardi,,,,,,,,Shopee,,,bege,,,,jogo de cama,casal,poliéster,3.0,500.0,300.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,A Revolução dos Bichos,Carol Dweck,HarperCollins,1987.0,português,383.0,978-60-25622-7,clássico,,,,
+eletrodomesticos,Forno elétrico Inox,Philco,BR349,,,,,,,Amazon,,,inox,,,,,,,,,,,,,,,,,,,Bivolt,12kg,45.7,micro-ondas
+eletronicos,Tablet ThinkPad E14,Xiaomi,iPhone 13,64.0,12.0,Windows,10.5,não,Lightning,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Sofá Premium,Oppa,M-241,,,,,,,Mercado Livre,cadeira,madeira maciça,nogueira,107x96x65 cm,57.6,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Luxo,Buddemeyer,,,,,,,,Mercado Livre,,,rosa,,,,toalha,king,microfibra,3.0,400.0,300.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,O Pequeno Príncipe,J.R.R. Tolkien,Alta Books,1981.0,português,478.0,978-66-26827-7,clássico,,,,
+eletrodomesticos,Micro-ondas Inox,Panasonic,ELX808,,,,,,,Amazon,,,branco,,,,,,,,,,,,,,,,,,,Bivolt,30L,28.4,fogão
+eletronicos,Smartphone A53 5G,Lenovo,A53 5G,512.0,8.0,MIUI,13.6,sim,USB 3.0,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Rack Premium,Mobly,M-165,,,,,,,Shopee,rack,aço,cinza,79x98x49 cm,31.8,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Maciez Extra,Karsten,,,,,,,,Amazon,,,cinza,,,,toalha,queen,100% algodão,1.0,250.0,600.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,O Poder do Hábito,Charles Duhigg,Intrínseca,1989.0,português,470.0,978-95-86989-0,aventura,,,,
+eletrodomesticos,Geladeira Digital,Consul,CS971,,,,,,,Amazon,,,inox,,,,,,,,,,,,,,,,,,,Bivolt,15kg,36.7,lava-roupas
+eletronicos,Tablet ThinkPad E14,Apple,iPhone 13,256.0,12.0,Windows,6.4,não,USB 3.0,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Cadeira Compacto,Oppa,M-465,,,,,,,Mercado Livre,guarda-roupa,aço,branco,137x111x43 cm,47.7,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Luxo,Buddemeyer,,,,,,,,Mercado Livre,,,branco,,,,jogo de cama,casal,algodão egípcio,1.0,500.0,200.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,Dom Casmurro,J.R.R. Tolkien,Rocco,2007.0,inglês,496.0,978-23-32817-7,fantasia,,,,
+eletrodomesticos,Geladeira Branco,Electrolux,ELX105,,,,,,,Amazon,,,preto,,,,,,,,,,,,,,,,,,,Bivolt,12kg,38.8,geladeira
+eletronicos,Notebook Redmi Note 12,Apple,iPhone 13,64.0,4.0,Android,13.3,sim,Lightning,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Cadeira Ergonômico,Sierra,M-411,,,,,,,Amazon,rack,madeira maciça,preto,177x127x93 cm,10.2,sim,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Premium,Trussardi,,,,,,,,Amazon,,,bege,,,,toalha,king,microfibra,5.0,400.0,400.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,O Poder do Hábito,Charles Duhigg,Alta Books,1986.0,português,150.0,978-99-73840-8,aventura,,,,
+eletrodomesticos,Forno elétrico Branco,Brastemp,BR553,,,,,,,Mercado Livre,,,branco,,,,,,,,,,,,,,,,,,,220V,15kg,30.8,geladeira
+eletronicos,Tablet ThinkPad E14,Apple,Moto G100,64.0,6.0,Windows,8.4,não,USB 3.0,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Rack Luxo,Etna,M-717,,,,,,,Mercado Livre,guarda-roupa,aço,carvalho,197x176x48 cm,64.3,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Luxo,Trussardi,,,,,,,,Amazon,,,cinza,,,,toalha,solteiro,microfibra,4.0,500.0,200.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,A Revolução dos Bichos,Carol Dweck,Companhia das Letras,2022.0,inglês,759.0,978-56-52140-7,autoajuda,,,,
+eletrodomesticos,Forno elétrico Branco,Consul,BR416,,,,,,,Amazon,,,branco,,,,,,,,,,,,,,,,,,,220V,15kg,27.6,lava-roupas
+eletronicos,Tablet iPhone 13,Apple,A53 5G,64.0,4.0,iOS,10.9,não,USB 3.0,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Estante Premium,Oppa,M-716,,,,,,,Mercado Livre,cadeira,vidro temperado,nogueira,98x110x45 cm,28.5,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Luxo,Artex,,,,,,,,Amazon,,,azul,,,,toalha,king,poliéster,4.0,500.0,400.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,Dom Casmurro,Charles Duhigg,Companhia das Letras,1993.0,português,717.0,978-90-37832-6,ficção,,,,
+eletrodomesticos,Micro-ondas Digital,Panasonic,ELX383,,,,,,,Mercado Livre,,,preto,,,,,,,,,,,,,,,,,,,Bivolt,450L,54.6,fogão
+eletronicos,Tablet iPhone 13,Apple,ThinkPad E14,256.0,16.0,Android,13.9,sim,USB 3.0,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Mesa Compacto,Mobly,M-545,,,,,,,Amazon,mesa,aço,cinza,178x160x42 cm,21.3,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Maciez Extra,Santista,,,,,,,,Mercado Livre,,,bege,,,,toalha,casal,poliéster,5.0,500.0,300.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,O Pequeno Príncipe,J.K. Rowling,Intrínseca,1984.0,inglês,183.0,978-23-46137-1,fantasia,,,,
+eletrodomesticos,Geladeira Branco,Philco,ELX654,,,,,,,Mercado Livre,,,inox,,,,,,,,,,,,,,,,,,,220V,45L,21.0,lava-roupas
+eletronicos,Notebook Zenfone 9,Asus,ThinkPad E14,256.0,12.0,Windows,5.6,não,USB 3.0,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Rack Compacto,MadeiraMadeira,M-879,,,,,,,Amazon,mesa,madeira maciça,carvalho,78x173x94 cm,89.3,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Edredom Maciez Extra,Buddemeyer,,,,,,,,Shopee,,,branco,,,,edredom,casal,algodão egípcio,3.0,250.0,200.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Mercado Livre,,,,,,,,,,,,,,Harry Potter e a Pedra Filosofal,Yuval Noah Harari,Alta Books,2013.0,inglês,136.0,978-55-64277-5,fantasia,,,,
+eletrodomesticos,Micro-ondas Digital,Philco,ELX687,,,,,,,Amazon,,,preto,,,,,,,,,,,,,,,,,,,Bivolt,30L,41.6,geladeira
+eletronicos,Smartphone iPhone 13,Apple,ThinkPad E14,512.0,12.0,MIUI,9.7,não,USB-C,Shopee,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Guarda-roupa Ergonômico,Sierra,M-254,,,,,,,Shopee,guarda-roupa,vidro temperado,preto,103x105x41 cm,69.2,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Maciez Extra,Buddemeyer,,,,,,,,Mercado Livre,,,azul,,,,toalha,casal,algodão egípcio,3.0,250.0,600.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,Mindset,J.R.R. Tolkien,Rocco,1980.0,inglês,745.0,978-17-45073-6,autoajuda,,,,
+eletrodomesticos,Forno elétrico Branco,Panasonic,ELX529,,,,,,,Shopee,,,preto,,,,,,,,,,,,,,,,,,,Bivolt,30L,25.2,micro-ondas
+eletronicos,Tablet Zenfone 9,Motorola,iPhone 13,64.0,4.0,Android,10.5,não,USB 3.0,Mercado Livre,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Mesa Luxo,Mobly,M-774,,,,,,,Amazon,mesa,aço,cinza,143x145x49 cm,52.0,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Toalha de Banho Maciez Extra,Buddemeyer,,,,,,,,Mercado Livre,,,cinza,,,,toalha,king,algodão egípcio,1.0,300.0,400.0,sim,,,,,,,,,,,,
+livros,,,,,,,,,,Amazon,,,,,,,,,,,,,,O Poder do Hábito,Machado de Assis,Rocco,1984.0,português,499.0,978-38-30711-4,ficção,,,,
+eletrodomesticos,Micro-ondas Branco,Brastemp,ELX841,,,,,,,Mercado Livre,,,preto,,,,,,,,,,,,,,,,,,,220V,45L,30.5,forno elétrico
+eletronicos,Notebook iPhone 13,Lenovo,Zenfone 9,256.0,12.0,MIUI,13.4,sim,Lightning,Amazon,,,,,,,,,,,,,,,,,,,,,,,,,
+moveis,Sofá Ergonômico,Etna,M-869,,,,,,,Shopee,rack,MDF,preto,95x60x42 cm,99.8,não,,,,,,,,,,,,,,,,,,,
+cama e banho,Jogo de Cama Premium,Karsten,,,,,,,,Shopee,,,cinza,,,,jogo de cama,solteiro,algodão egípcio,2.0,400.0,300.0,não,,,,,,,,,,,,
+livros,,,,,,,,,,Shopee,,,,,,,,,,,,,,1984,J.R.R. Tolkien,HarperCollins,1985.0,português,361.0,978-11-78467-6,clássico,,,,
+eletrodomesticos,Fogão Branco,Consul,CS471,,,,,,,Mercado Livre,,,preto,,,,,,,,,,,,,,,,,,,110V,45L,40.6,geladeira
