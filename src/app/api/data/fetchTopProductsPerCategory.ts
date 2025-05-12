@@ -1,5 +1,3 @@
-import { baseUrl } from "@/app/utils/baseUrl";
-
 export async function fetchTopProductsPerCategory() {
   try {
     const isServer = typeof window === 'undefined';
