@@ -8,7 +8,9 @@ if (process.env.NODE_ENV === 'development') {
     keyFilename: process.env.GOOGLE_APPLICATION_CREDENTIALS,
   });
 } else {
-  const credentials = JSON.parse(process.env.GOOGLE_CREDENTIALS_JSON || '{}');
+  const stringfyAppCredentials = JSON.stringify(process.env.GOOGLE_APPLICATION_CREDENTIALS);
+  console.log("AAAAKDFSAFOKASDFOKADSFOKASDFODSAKFAOSDKFDSA", stringfyAppCredentials);
+  const credentials = JSON.parse(stringfyAppCredentials || '{}');
 
   bigquery = new BigQuery({
     projectId: process.env.GCP_PROJECT_ID,
