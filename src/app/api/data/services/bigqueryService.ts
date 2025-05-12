@@ -1,22 +1,9 @@
+import { getGCPCredentials } from '@/app/utils/getGcpCredentials';
 import { BigQuery } from '@google-cloud/bigquery';
 
-let bigquery: BigQuery;
+console.log(getGCPCredentials());
 
-if (process.env.NODE_ENV === 'development') {
-  bigquery = new BigQuery({
-    projectId: process.env.GCP_PROJECT_ID,
-    keyFilename: process.env.GOOGLE_APPLICATION_CREDENTIALS,
-  });
-} else {
-  const stringfyAppCredentials = JSON.stringify(process.env.GOOGLE_APPLICATION_CREDENTIALS);
-  console.log("AAAAKDFSAFOKASDFOKADSFOKASDFODSAKFAOSDKFDSA", stringfyAppCredentials);
-  const credentials = JSON.parse(stringfyAppCredentials || '{}');
-
-  bigquery = new BigQuery({
-    projectId: process.env.GCP_PROJECT_ID,
-    credentials,
-  });
-}
+const bigquery = new BigQuery(getGCPCredentials());
 
 export async function getSampleData() {
   const query = `
