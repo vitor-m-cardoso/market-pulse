@@ -4,7 +4,6 @@ import Image from "next/image";
 export default function ChartBox({
   title,
   value,
-  variation,
   iconName,
 }: {
   title: string;
@@ -22,9 +21,6 @@ export default function ChartBox({
           <Image src={iconPath} alt={iconName} width={52} height={52} />
         </Box>
         <Typography variant="h4" mt={2}>{value}</Typography>
-        <Typography variant="body2" color="text.secondary">
-          <strong style={{ color: 'green' }}>{variation}</strong> vs ontem
-        </Typography>
       </CardContent>
     </Card>
   );
