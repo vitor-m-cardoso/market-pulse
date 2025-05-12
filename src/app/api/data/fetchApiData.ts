@@ -3,7 +3,7 @@ export async function fetchBigQueryData() {
     const res = await fetch('https://market-pulse-one.vercel.app/api/bigquery', {
       next: { revalidate: 600 },
     });
-    console.log(res);
+
     if (!res.ok) throw new Error('Erro ao buscar dados do BigQuery');
 
     return res.json();
