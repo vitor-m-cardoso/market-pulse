@@ -9,7 +9,7 @@ if (process.env.NODE_ENV === 'development') {
     keyFilename: process.env.GOOGLE_APPLICATION_CREDENTIALS,
   });
 } else {
-  const credentials = JSON.parse(process.env.GOOGLE_CREDENTIALS_JSON || '{}');
+  // const credentials = JSON.parse(process.env.GOOGLE_CREDENTIALS_JSON || '{}');
 
   bigquery = new BigQuery({
     projectId: process.env.GCP_PROJECT_ID,
