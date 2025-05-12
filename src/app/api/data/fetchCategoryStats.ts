@@ -1,6 +1,8 @@
+import { baseUrl } from "@/app/utils/baseUrl";
+
 export async function fetchCategoryStats() {
   try {
-    const res = await fetch('/api/category-stats', {
+    const res = await fetch(`${process.env.NODE_ENV === 'development' ? baseUrl : ''}/api/category-stats`, {
       next: { revalidate: 600 },
     });
 

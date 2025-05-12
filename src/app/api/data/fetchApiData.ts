@@ -1,6 +1,8 @@
+import { baseUrl } from "@/app/utils/baseUrl";
+
 export async function fetchBigQueryData() {
   try {
-    const res = await fetch('/api/bigquery', {
+    const res = await fetch(`${process.env.NODE_ENV === 'development' ? baseUrl : ''}/api/bigquery`, {
       next: { revalidate: 600 },
     });
 
