@@ -33,7 +33,7 @@ export default function CategoryVolumeComparison({ categoryStats }: Props) {
   return (
     <Box>
       <Typography variant="h5" mb={3} fontWeight="bold">
-        Comparativo do Volume de Vendas por Categoria
+        Receita Total Gerada em Cada Categoria
       </Typography>
 
       <Card sx={{ p: 2, borderRadius: 3, background: '#fafafa', overflowX: 'auto' }}>
@@ -51,7 +51,7 @@ export default function CategoryVolumeComparison({ categoryStats }: Props) {
               }]}
               series={[{
                 data: volumes,
-                label: 'Volume R$',
+                label: 'Receita R$',
               }]}
               width={700}
               height={356}
