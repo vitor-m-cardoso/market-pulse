@@ -1,4 +1,3 @@
-// app/data/services/bigqueryService.ts
 import { BigQuery } from '@google-cloud/bigquery';
 
 let bigquery: BigQuery;
@@ -9,20 +8,11 @@ if (process.env.NODE_ENV === 'development') {
     keyFilename: process.env.GOOGLE_APPLICATION_CREDENTIALS,
   });
 } else {
-  // const credentials = JSON.parse(process.env.GOOGLE_CREDENTIALS_JSON || '{}');
+  const credentials = JSON.parse(process.env.GOOGLE_CREDENTIALS_JSON || '{}');
 
   bigquery = new BigQuery({
     projectId: process.env.GCP_PROJECT_ID,
-    credentials: {
-      type: process.env.GCP_TYPE,
-      project_id: process.env.GCP_PROJECT_ID,
-      private_key_id: process.env.GCP_PRIVATE_KEY_ID,
-      private_key: process.env.GCP_PRIVATE_KEY,
-      client_email: process.env.GCP_CLIENT_EMAIL,
-      client_id: process.env.GCP_CLIENT_ID,
-      token_url: process.env.GCP_TOKEN_URI,
-      universe_domain: process.env.GCP_UNIVERSE_DOMAIN,
-    },
+    credentials,
   });
 }
 
