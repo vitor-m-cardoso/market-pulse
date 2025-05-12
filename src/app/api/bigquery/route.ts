@@ -4,6 +4,7 @@ import { getSampleData } from '@/app/api/data/services/bigqueryService';
 export async function GET() {
   try {
     const rows = await getSampleData();
+    console.log(rows);
     return NextResponse.json(rows);
   } catch (error) {
     console.error('Erro ao consultar o BigQuery:', error);

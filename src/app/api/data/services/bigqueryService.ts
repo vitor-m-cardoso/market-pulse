@@ -1,8 +1,6 @@
 import { getGCPCredentials } from '@/app/utils/getGcpCredentials';
 import { BigQuery } from '@google-cloud/bigquery';
 
-console.log(getGCPCredentials());
-
 const bigquery = new BigQuery(getGCPCredentials());
 
 export async function getSampleData() {
