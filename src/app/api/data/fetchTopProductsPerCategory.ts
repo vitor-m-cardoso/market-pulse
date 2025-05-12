@@ -2,7 +2,13 @@ import { baseUrl } from "@/app/utils/baseUrl";
 
 export async function fetchTopProductsPerCategory() {
   try {
-    const res = await fetch(`${process.env.NODE_ENV === 'development' ? baseUrl : ''}/api/top-products`, {
+    const isServer = typeof window === 'undefined';
+
+    const url = isServer
+      ? `${process.env.NEXT_PUBLIC_BASE_URL || 'https://market-pulse-one.vercel.app'}/api/top-products`
+      : '/api/top-products';
+
+    const res = await fetch(url, {
       next: { revalidate: 600 },
     });
   

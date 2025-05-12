@@ -1,8 +1,12 @@
-import { baseUrl } from "@/app/utils/baseUrl";
-
 export async function fetchCategoryStats() {
   try {
-    const res = await fetch(`${process.env.NODE_ENV === 'development' ? baseUrl : ''}/api/category-stats`, {
+    const isServer = typeof window === 'undefined';
+
+    const url = isServer
+      ? `${process.env.NEXT_PUBLIC_BASE_URL || 'https://market-pulse-one.vercel.app'}/api/category-stats`
+      : '/api/category-stats';
+
+    const res = await fetch(url, {
       next: { revalidate: 600 },
     });
 

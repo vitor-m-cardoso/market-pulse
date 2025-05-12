@@ -1,8 +1,12 @@
-import { baseUrl } from "@/app/utils/baseUrl";
-
 export async function fetchBigQueryData() {
   try {
-    const res = await fetch(`${process.env.NODE_ENV === 'development' ? baseUrl : ''}/api/bigquery`, {
+    const isServer = typeof window === 'undefined';
+
+    const url = isServer
+      ? `${process.env.NEXT_PUBLIC_BASE_URL || 'https://market-pulse-one.vercel.app'}/api/bigquery`
+      : '/api/bigquery';
+
+    const res = await fetch(url, {
       next: { revalidate: 600 },
     });
 
@@ -10,7 +14,7 @@ export async function fetchBigQueryData() {
 
     return res.json();
   } catch (err) {
-    console.error('Erro no fetchBigQueryData:', err);
+    console.error('Erro no fetchApiData:', err);
     return null;
   }
 }
