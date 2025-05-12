@@ -11,6 +11,8 @@ if (process.env.NODE_ENV === 'development') {
 } else {
   const credentials = JSON.parse(process.env.GOOGLE_CREDENTIALS_JSON || '{}');
 
+  console.log('CREDENCIAISSSSSSSSSSSSSSSS:::::::', credentials);
+
   bigquery = new BigQuery({
     projectId: process.env.GCP_PROJECT_ID,
     credentials,
