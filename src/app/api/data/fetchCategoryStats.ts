@@ -1,6 +1,6 @@
 export async function fetchCategoryStats() {
   try {
-    const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/category-stats`, {
+    const res = await fetch('/api/category-stats', {
       next: { revalidate: 600 },
     });
 

@@ -1,8 +1,6 @@
-import { baseUrl } from "@/app/utils/baseUrl";
-
 export async function fetchTopProductsPerCategory() {
   try {
-    const res = await fetch(`${baseUrl}/api/top-products`, {
+    const res = await fetch('/api/top-products', {
       next: { revalidate: 600 },
     });
 

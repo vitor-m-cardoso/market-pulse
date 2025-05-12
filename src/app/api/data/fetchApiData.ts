@@ -1,8 +1,6 @@
-import { baseUrl } from "@/app/utils/baseUrl";
-
 export async function fetchBigQueryData() {
   try {
-    const res = await fetch(`${baseUrl}/api/bigquery`, {
+    const res = await fetch('/api/bigquery', {
       next: { revalidate: 600 },
     });
 
